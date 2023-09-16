@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">471869112373-rf7m51uhojbr4p3tjnb74mecpsrgb4jp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">471869112373</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9FICrwdaBFHduSv6YmdEOjJiPCVm1svI</string>
+    <string name="google_app_id" translatable="false">1:471869112373:android:e619f8d15e5e708f05b17c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9FICrwdaBFHduSv6YmdEOjJiPCVm1svI</string>
+    <string name="google_storage_bucket" translatable="false">blingapp-b1819.appspot.com</string>
+    <string name="project_id" translatable="false">blingapp-b1819</string>
+</resources>

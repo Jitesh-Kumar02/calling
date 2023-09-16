@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <!-- Value from build type: debug -->
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Value from default config. -->
+    <string name="AUTH0_AUDIENCE" translatable="false">"https://dev-15bi2zuozhmiliwm.us.auth0.com/api/v2/"</string>
+    <!-- Value from default config. -->
+    <string name="AUTH0_CLIENT_ID" translatable="false">"xxxxxxxxxxxxxx"</string>
+    <!-- Value from default config. -->
+    <string name="AUTH0_CLIENT_SECRET" translatable="false">"xxxxxxxxxxxxxx"</string>
+    <!-- Value from default config. -->
+    <string name="AUTH0_PASSWORD" translatable="false">"xxxxxxxxxxxxxx"</string>
+    <!-- Value from default config. -->
+    <string name="AUTH0_URL" translatable="false">"https://xxxxxxxxx.us.auth0.com/oauth/token"</string>
+    <!-- Value from default config. -->
+    <string name="AUTH0_USERNAME" translatable="false">"xxxxxxxxxxxxxx"</string>
+    <!-- Value from default config. -->
+    <string name="CLIENT_ID" translatable="false">"AT2tHThWuOWgGcJqTwidF8D0w7kLMb5l"</string>
+    <!-- Value from default config. -->
+    <string name="DEFAULT_URL" translatable="false">"https://dashback.bling-test.xyz"</string>
+    <!-- Value from default config. -->
+    <string name="DOMAIN_NAME" translatable="false">"dev-15bi2zuozhmiliwm.us.auth0.com"</string>
+    <!-- Value from default config. -->
+    <string name="ENABLE_ABOUT_PAGE" translatable="false">"false"</string>
+    <!-- Value from default config. -->
+    <string name="SLACK_CHANNEL_NAME" translatable="false">"xxxxxxxxxxxxxx"</string>
+    <!-- Value from default config. -->
+    <string name="SLACK_URL" translatable="false">"xxxxxxxxxxxxxx"</string>
+
+</resources>

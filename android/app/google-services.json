@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471869112373",
+    "project_id": "blingapp-b1819",
+    "storage_bucket": "blingapp-b1819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471869112373:android:e619f8d15e5e708f05b17c",
+        "android_client_info": {
+          "package_name": "com.twiliovoicereactnativereferenceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471869112373-rf7m51uhojbr4p3tjnb74mecpsrgb4jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9FICrwdaBFHduSv6YmdEOjJiPCVm1svI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471869112373-rf7m51uhojbr4p3tjnb74mecpsrgb4jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
